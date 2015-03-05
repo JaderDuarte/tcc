@@ -1,0 +1,17 @@
+Users
+full_name;
+email;
+password;
+status(pontuação);
+
+Posto de gasolina
+nome;
+posição(variável estrangeira de posição);
+valor da gasolina;
+valor do diesel;
+valor do alcool;
+avaliação do serviço(atendimento, organização...);
+
+posicionamento
+pos X;
+pos Y;
